@@ -16,8 +16,8 @@ To master the fundamentals of Python, including:
 
 | # | Project Name | Key Concepts Applied | Status |
 |:-:|:------------|:---------------------|:------:|
-| 1 | **Text Analyzer** | File I/O, Dictionaries, String Manipulation | 🚧 In Progress |
-| 2 | *Coming Soon...* | ... | ⏳ Pending |
+| 1 | **Text Analyzer** | File I/O, Dictionaries, String Manipulation |✅ Completed|
+| 2 | *Coming Soon...* | ... |  🚧 In Progress  |
 | 3 | *Coming Soon...* | ... | ⏳ Pending |
 | 4 | *Coming Soon...* | ... | ⏳ Pending |
 | 5 | *Coming Soon...* | ... | ⏳ Pending |
