@@ -12,15 +12,13 @@ To master the fundamentals of Python, including:
 - **Algorithms:** Basic sorting, searching, and logic implementation.
 
 ## 📂 Projects List
-*(I will update this list as I complete the projects)*
 
 | # | Project Name | Key Concepts Applied | Status |
 |:-:|:------------|:---------------------|:------:|
-| 1 | **Text Analyzer** | File I/O, Dictionaries, String Manipulation |✅ Completed|
-| 2 | *Coming Soon...* | ... |  🚧 In Progress  |
-| 3 | *Coming Soon...* | ... | ⏳ Pending |
-| 4 | *Coming Soon...* | ... | ⏳ Pending |
-| 5 | *Coming Soon...* | ... | ⏳ Pending |
+| 1 | **Text Analyzer** | File I/O, Dictionaries, Frequency Counting, String Methods | ✅ Completed |
+| 2 | **Guessing Game** | `random` lib, Logic Building, Data Persistence (High Score) | ✅ Completed |
+| 3 | **Password Manager** | Functions, Data Parsing (`split`), Context Managers (`with`), Appending Files | ✅ Completed |
+| 4 | **To-Do List App** | CRUD Operations (Create, Read, Delete), List Manipulation (`pop`), Error Handling | ✅ Completed |
 
 ## 🛠️ Technologies
 - **Language:** Python 3.x
